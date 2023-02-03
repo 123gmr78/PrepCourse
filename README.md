@@ -1,2 +1,1 @@
-# PrepCourse
-este es repositorio de prueba modulo2
+proyecto de como crear un repositorio en github y clonarlo desde github a mi escritorio local 
